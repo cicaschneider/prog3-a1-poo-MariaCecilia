@@ -39,7 +39,7 @@ ProjetoA1-main/
  2. Coloque a pasta do projeto dentro do diretório htdocs (ou equivalente ao seu servidor)
      
   ```bash
-  http://localhost/xampp/projeto%20progIII/login.php
+  http://localhost/xampp/projeto_progIII/login.php
  ```
   ## 👥 Aluna
  
