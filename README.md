@@ -11,7 +11,7 @@
  
   A organização dos arquivos segue o seguinte padrão:
   ```plaintext
-ProjetoA1-main/
+ProgramacaoIII/
 ├── classes/
 │   ├── Usuario.php
 │   ├── Sessao.php
