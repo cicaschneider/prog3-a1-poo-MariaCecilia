@@ -44,3 +44,5 @@ ProgramacaoIII/
   ## 👥 Aluna
  
  - Maria Cecília Schneider de Oliveira
+ - Ciência da Computação
+ - Unoesc SMO 
